@@ -148,8 +148,10 @@
 
 ## 결과 이미지
 
-- <img src="output/demo_frame_01.jpg" width="500">
-- <img src="output/demo_frame_02.jpg" width="500">
+<p align="center">
+  <img src="output/demo_frame_01.jpg" width="45%">
+  <img src="output/demo_frame_02.jpg" width="45%">
+</p>
 
 ---
 
