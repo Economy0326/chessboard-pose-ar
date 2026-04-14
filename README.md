@@ -157,7 +157,9 @@
 
 ## 결과 영상
 
-![AR Demo](output/ar_result.gif)
+최종 결과 영상은 아래 파일로 저장됩니다.
+
+- `output/ar_result.mp4`
 
 ---
 
