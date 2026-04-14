@@ -148,8 +148,8 @@
 
 ## 결과 이미지
 
-- ![Demo Frame 1](output/demo_frame_01.jpg)
-- ![Demo Frame 2](output/demo_frame_02.jpg)
+- <img src="output/demo_frame_01.jpg" width="500">
+- <img src="output/demo_frame_02.jpg" width="500">
 
 ---
 
